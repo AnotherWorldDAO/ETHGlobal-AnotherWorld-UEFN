@@ -90,11 +90,11 @@ class Home extends Component {
               Apecoin UEFN Template
             </h2>
             
-            <p className="text-sm text-plate-300 mb-5 text-center" data-aos="fade-up" data-aos-delay="500">Use this Apecoin + UEFN <a href="https://www.unrealengine.com/en-US/blog/unreal-editor-for-fortnite-is-now-available-in-beta">(<b>Unreal Editor for Fortnite</b>)</a> template to jump start your Apecoin game (in Fortnite!!)</p>
+            <p className="text-sm text-plate-300 mb-5 text-center" data-aos="fade-up" data-aos-delay="500">Jump start your Apecoin UEFN game development.<br/>This is an UEFN <a href="https://www.unrealengine.com/en-US/blog/unreal-editor-for-fortnite-is-now-available-in-beta">(<b>Unreal Editor for Fortnite</b>)</a> template for Apecoin community members to build custom games in Fortnite. Festive saloon building included!</p>
             <ul className="text-sm text-plate-300 mb-5 text-center">
-            <b>Quick Start</b>
-            <ol>1. Have an Epic Games Account.</ol>
-            <ol>2. Install UEFN from Epic Games Launcher (40Gb).</ol>
+            <b>How to use this:</b>
+            <ol>1. Have an Epic Games Account and Epic Games Launcher.</ol>
+            <ol>2. Install UEFN & Fortnite from Epic Games Launcher (40Gb).</ol>
             <ol>3. Download Apecoin UEFN template ({`$APE >=1 required`}).</ol>
             </ul>
             
@@ -125,7 +125,7 @@ class Home extends Component {
           </div>
           
           
-          <div className="pt-8 mt-2" data-aos="fade-up" data-aos-delay="900"><p className="text-sm text-plate-300 mb-5 text-center" data-aos="fade-up" data-aos-delay="500">Built by Another World Team</p>
+          <div className="pt-8 mt-2" data-aos="fade-up" data-aos-delay="900"><p className="text-sm text-plate-300 mb-5 text-center" data-aos="fade-up" data-aos-delay="500">Built by <a href="https://discord.gg/anotherworlddao">Another World Team</a></p>
           
           <div className="flex items-center justify-center">
           
