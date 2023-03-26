@@ -96,6 +96,7 @@ class Home extends Component {
             <ol>1. Have an Epic Games Account and Epic Games Launcher.</ol>
             <ol>2. Install UEFN & Fortnite from Epic Games Launcher (40Gb).</ol>
             <ol>3. Download Apecoin UEFN template ({`$APE >=1 required`}).</ol>
+            <ol>4. Unzip and open from UEFN. Build your Fortnite Apecoin game!</ol>
             </ul>
             
 
