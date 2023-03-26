@@ -6,3 +6,9 @@ This project presents a downloadable UEFN template that can be deployed to Fortn
 This project is built based on UEFN (Unreal Editor for Fortnite) which was released on March 22, 2023. Our idea is to create a template to jumpstart Apecoin community creators and gamers to build mini-games in Fortnite. "Fortnite has around 400 million registered users as of 2023" (source: [https://www.demandsage.com/fortnite-statistics/](https://www.demandsage.com/fortnite-statistics/)).
 
 We started by migrating and re-building our existing saloon building to be compatible and usable within UEFN. We completed our initial template and set up our Apecoin-gated download ($APE >=1) on [https://uefn.anotherworld.gg](https://uefn.anotherworld.gg/).
+
+## Quick Start
+1. Have an Epic Games Account and Epic Games Launcher.
+2. Install UEFN & Fortnite from Epic Games Launcher (40Gb).
+3. [Download Apecoin UEFN template](https://uefn.anotherworld.gg/) ($APE >=1 required).
+4. Unzip and open from UEFN. Build your Fortnite Apecoin game!
