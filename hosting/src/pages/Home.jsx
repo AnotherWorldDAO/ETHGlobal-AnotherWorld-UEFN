@@ -109,6 +109,7 @@ class Home extends Component {
 
               <img className="mx-auto rounded" src="https://ipfs.io/ipfs/QmTXipPvwLgkkfZP1DbB2pQGKb4AEmhUP6fYcG3z1q4Ez8" alt="Hero" width={'400px'}/>
 
+              {/** 
               <button onClick={
                 ()=>{
                   if (!ethAddress){
@@ -120,7 +121,11 @@ class Home extends Component {
                   }
                 }} className="btn text-sm text-slate-200 border hover:border-slate-100 border-slate-600 shadow-sm mt-3 w-40">
                 {canDownload ? `Download`: `Check Eligibility`}<br/>{canDownload ? `Apecoin + UEFN Template ${import.meta.env.VITE_UEFN_DOWNLOAD_VERSION}`: `($APE >= 1)`}
-              </button>
+              </button>*/}
+
+              <button className="btn text-xs text-yellow-200 border hover:border-slate-100 border-slate-600 shadow-sm mt-3 w-40">
+                Due to a recent update of UEFN, our sample project does not work anymore (May 3rd, 2023).<br/><br/>Sorry!! We hope to be back soon.
+                </button>
               
             </div>
           </div>
